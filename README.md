@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @peterkacmarik - Junior Python programmer | Passion for Python, data and efficient code
+- 👋 Hi, I'm @peterkacmarik - Junior Python Programmer | Passion for Python, AI, Neural Networks and efficient code
 
-- 👀 I’m a junior Python programmer with a passion for creating clean and efficient code. I have experience in various projects that include web scraping, task automation and simple web application development.
-- 👀 During my career I have worked with libraries such as requests, BeautifulSoup, Pandas, async, aiohttp, proxy. I also have basic knowledge of frameworks and databases such as SQLite and PostgreSQL using the sqlalchemy library.
+- 👀 I'm a junior Python programmer with a passion for creating clean and efficient code. I have experience with various projects that include web scraping, data manipulation and neural network development (regression, classification).
+- 👀 During my career I have worked with libraries such as requests, BeautifulSoup, Pandas, async, aiohttp, proxy, torch, scikit-learn. I also have basic knowledge of frameworks and databases such as SQLite and PostgreSQL using the sqlalchemy library.
 
 - 👀 I am a skilled problem solver and learning new technologies comes naturally to me. In my work, I emphasize the readability and maintainability of the code, which I consider crucial for successful projects.
 
