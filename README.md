@@ -1,11 +1,6 @@
-- 👋 Hi, I'm @peterkacmarik - Junior Python Programmer | Passion for Python, AI, Neural Networks and efficient code
+- 👋 Hi, I'm @peterkacmarik - Programmer Architect
 
-- 👀 I'm a junior Python programmer with a passion for creating clean and efficient code. I have experience with various projects that include web scraping, data manipulation and neural network development (regression, classification).
-- 👀 During my career I have worked with libraries such as requests, BeautifulSoup, Pandas, async, aiohttp, proxy, torch, scikit-learn. I also have basic knowledge of frameworks and databases such as SQLite and PostgreSQL using the sqlalchemy library.
-
-- 👀 I am a skilled problem solver and learning new technologies comes naturally to me. In my work, I emphasize the readability and maintainability of the code, which I consider crucial for successful projects.
-
-- 👀 I am ready to contribute my skills and learn new things in python programming.
+- 👀 I am ready to contribute my skills and learn new things in programming.
 
 - 🌱 I’m currently learning to program more complex applications with a complex structure. I am gradually adding more extensions and functions.
 - 💞️ I’m looking for full-time cooperation, but I am not against any kind of cooperation.
